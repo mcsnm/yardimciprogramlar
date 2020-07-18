@@ -5,6 +5,7 @@ import os
 
 
 #akifffffffff
+#sadsadadasd
 
 #Bu program .csv uzantılı birden çok dosyayı birleştirmek için kullanılır
 
