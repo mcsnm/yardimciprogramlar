@@ -4,6 +4,8 @@ import glob
 import os
 
 
+#akifffffffff
+
 #Bu program .csv uzantılı birden çok dosyayı birleştirmek için kullanılır
 
 
